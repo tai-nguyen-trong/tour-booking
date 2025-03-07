@@ -8,7 +8,7 @@ public class TourBookingApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TourBookingApplication.class, args);
-        System.out.println("Tour Booking Application is running...12345");
+        System.out.println("Tour Booking Application is running...123456");
     }
 
 }
